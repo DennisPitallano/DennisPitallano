@@ -1,6 +1,6 @@
 # 💫About Me :
 
-- 🔭 I’m currently working as a Full-stack developer @bss.com, 🇵🇭 
+- 🔭 I’m currently working as a Full-stack developer 🇵🇭 
 - 📫 How to reach me: dpitallano@gmail.com
 - ⚙️ I use daily: `.net`, `.js`, `.html`, `.css`, `.cs(c#)`, `.sql`
 
