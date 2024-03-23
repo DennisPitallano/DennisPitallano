@@ -35,6 +35,9 @@
 ![](https://komarev.com/ghpvc/?username=DennisPitallano&label=Visitors+Count&color=brightgreen)
 
 ## 💰You can help me by Donating
+![DA2Es4wTcjYXwYXBu_(Phone)](https://github.com/DennisPitallano/DennisPitallano/assets/3394208/f1243578-0c46-498a-8103-d089cc7174ed)
+![ecash_qzdenpdktgj_ (Phone)](https://github.com/DennisPitallano/DennisPitallano/assets/3394208/677eebda-6825-466c-89f0-6c96c5e1d90a)
+
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/oragon) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dennispitallano?country.x=PH&locale.x=en_US) 
 
