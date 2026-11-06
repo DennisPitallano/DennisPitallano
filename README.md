@@ -35,7 +35,7 @@
 ![](https://komarev.com/ghpvc/?username=DennisPitallano&label=Visitors+Count&color=brightgreen)
 
 ## 💰You can help me by Donating
-![DA2Es4wTcjYXwYXBu_(Phone)](https://github.com/DennisPitallano/DennisPitallano/assets/3394208/f1243578-0c46-498a-8103-d089cc7174ed)
+![DGB Donation QR](images/dgb-donation.png)
 ![ecash_qzdenpdktgj_ (Phone)](https://github.com/DennisPitallano/DennisPitallano/assets/3394208/677eebda-6825-466c-89f0-6c96c5e1d90a)
 
 
